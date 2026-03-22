@@ -1,59 +1,6 @@
 {
     "data": [
         {
-            "grand_total": {
-                "hours": 6,
-                "minutes": 30,
-                "total_seconds": 23440.883,
-                "digital": "6:30",
-                "decimal": "6.50",
-                "text": "6 hrs 30 mins",
-                "ai_additions": 0,
-                "ai_deletions": 0,
-                "human_additions": 191,
-                "human_deletions": 197
-            },
-            "range": {
-                "start": "2026-03-20T17:00:00Z",
-                "end": "2026-03-21T16:59:59Z",
-                "date": "2026-03-21",
-                "text": "Sat Mar 21st 2026",
-                "timezone": "Asia/Bangkok"
-            },
-            "projects": [
-                {
-                    "name": "pphat.netlify.app",
-                    "total_seconds": 22088.932,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 191,
-                    "human_deletions": 193,
-                    "color": null,
-                    "digital": "6:08:08",
-                    "decimal": "6.13",
-                    "text": "6 hrs 8 mins",
-                    "hours": 6,
-                    "minutes": 8,
-                    "seconds": 8,
-                    "percent": 94.23
-                },
-                {
-                    "name": "py_fingerprint",
-                    "total_seconds": 1351.951,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 4,
-                    "color": null,
-                    "digital": "0:22:31",
-                    "decimal": "0.37",
-                    "text": "22 mins",
-                    "hours": 0,
-                    "minutes": 22,
-                    "seconds": 31,
-                    "percent": 5.77
-                }
-            ],
             "languages": [
                 {
                     "name": "TypeScript",
@@ -145,6 +92,90 @@
                 },
                 {
                     "name": "MDX",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                }
+            ],
+            "grand_total": {
+                "hours": 6,
+                "minutes": 30,
+                "total_seconds": 23440.883,
+                "digital": "6:30",
+                "decimal": "6.50",
+                "text": "6 hrs 30 mins",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 191,
+                "human_deletions": 197
+            },
+            "editors": [
+                {
+                    "name": "VS Code",
+                    "total_seconds": 23440.883,
+                    "digital": "6:30:40",
+                    "decimal": "6.50",
+                    "text": "6 hrs 30 mins",
+                    "hours": 6,
+                    "minutes": 30,
+                    "seconds": 40,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 23440.883,
+                    "digital": "6:30:40",
+                    "decimal": "6.50",
+                    "text": "6 hrs 30 mins",
+                    "hours": 6,
+                    "minutes": 30,
+                    "seconds": 40,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 23216.135,
+                    "digital": "6:26:56",
+                    "decimal": "6.43",
+                    "text": "6 hrs 26 mins",
+                    "hours": 6,
+                    "minutes": 26,
+                    "seconds": 56,
+                    "percent": 99.04
+                },
+                {
+                    "name": "Building",
+                    "total_seconds": 123.752,
+                    "digital": "0:02:03",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 3,
+                    "percent": 0.53
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 100.996,
+                    "digital": "0:01:40",
+                    "decimal": "0.02",
+                    "text": "1 min",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 40,
+                    "percent": 0.43
+                },
+                {
+                    "name": "Writing Docs",
                     "total_seconds": 0.0,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -1910,78 +1941,47 @@
                     "percent": 30.26
                 }
             ],
-            "editors": [
+            "projects": [
                 {
-                    "name": "VS Code",
-                    "total_seconds": 23440.883,
-                    "digital": "6:30:40",
-                    "decimal": "6.50",
-                    "text": "6 hrs 30 mins",
+                    "name": "pphat.netlify.app",
+                    "total_seconds": 22088.932,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 191,
+                    "human_deletions": 193,
+                    "color": null,
+                    "digital": "6:08:08",
+                    "decimal": "6.13",
+                    "text": "6 hrs 8 mins",
                     "hours": 6,
-                    "minutes": 30,
-                    "seconds": 40,
-                    "percent": 100.0
+                    "minutes": 8,
+                    "seconds": 8,
+                    "percent": 94.23
+                },
+                {
+                    "name": "py_fingerprint",
+                    "total_seconds": 1351.951,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 4,
+                    "color": null,
+                    "digital": "0:22:31",
+                    "decimal": "0.37",
+                    "text": "22 mins",
+                    "hours": 0,
+                    "minutes": 22,
+                    "seconds": 31,
+                    "percent": 5.77
                 }
             ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 23440.883,
-                    "digital": "6:30:40",
-                    "decimal": "6.50",
-                    "text": "6 hrs 30 mins",
-                    "hours": 6,
-                    "minutes": 30,
-                    "seconds": 40,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 23216.135,
-                    "digital": "6:26:56",
-                    "decimal": "6.43",
-                    "text": "6 hrs 26 mins",
-                    "hours": 6,
-                    "minutes": 26,
-                    "seconds": 56,
-                    "percent": 99.04
-                },
-                {
-                    "name": "Building",
-                    "total_seconds": 123.752,
-                    "digital": "0:02:03",
-                    "decimal": "0.03",
-                    "text": "2 mins",
-                    "hours": 0,
-                    "minutes": 2,
-                    "seconds": 3,
-                    "percent": 0.53
-                },
-                {
-                    "name": "AI Coding",
-                    "total_seconds": 100.996,
-                    "digital": "0:01:40",
-                    "decimal": "0.02",
-                    "text": "1 min",
-                    "hours": 0,
-                    "minutes": 1,
-                    "seconds": 40,
-                    "percent": 0.43
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                }
-            ]
+            "range": {
+                "start": "2026-03-20T17:00:00Z",
+                "end": "2026-03-21T16:59:59Z",
+                "date": "2026-03-21",
+                "text": "Sat Mar 21st 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-03-20T17:00:00Z",
