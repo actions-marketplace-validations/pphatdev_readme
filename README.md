@@ -42,14 +42,18 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-████████░░░░░░░░░░░░░░░░░ ⁝ 31.05% • JavaScript
-██████░░░░░░░░░░░░░░░░░░░ ⁝ 24.79% • TypeScript
-████░░░░░░░░░░░░░░░░░░░░░ ⁝ 16.96% • Markdown
-████░░░░░░░░░░░░░░░░░░░░░ ⁝ 14.55% • JSON
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 6.38% • Git Config
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 6.2% • Other
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.04% • TSConfig
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.03% • PHP
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 25.31% • TypeScript
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 24.37% • Other
+████░░░░░░░░░░░░░░░░░░░░░ ⁝ 15.48% • JSON
+███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 11.85% • Bash
+███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 10.34% • Markdown
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.67% • JavaScript
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.75% • XML
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.64% • YAML
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.23% • Git Config
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.25% • TSConfig
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.08% • CSV
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.02% • HTML
 ```
 <!--END_SECTION:daily-->
 
@@ -65,10 +69,10 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <div>
 <!--START_SECTION:followers-->
+<a href="https://github.com/vitou18"><img src="https://avatars.githubusercontent.com/u/121754633?s=130&v=4" width="60" height="60" alt="vitou18" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/the-d3fender"><img src="https://avatars.githubusercontent.com/u/92269361?s=130&v=4" width="60" height="60" alt="the-d3fender" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/Chhoranndorn"><img src="https://avatars.githubusercontent.com/u/172014781?s=130&v=4" width="60" height="60" alt="Chhoranndorn" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/RongMarin99"><img src="https://avatars.githubusercontent.com/u/105185714?s=130&v=4" width="60" height="60" alt="RongMarin99" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/chrisipanaque"><img src="https://avatars.githubusercontent.com/u/226408503?s=130&v=4" width="60" height="60" alt="chrisipanaque" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/ahmadrizal-baihaqi"><img src="https://avatars.githubusercontent.com/u/180535350?s=130&v=4" width="60" height="60" alt="ahmadrizal-baihaqi" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/duncuo164"><img src="https://avatars.githubusercontent.com/u/138113676?s=130&v=4" width="60" height="60" alt="duncuo164" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/cachewraith"><img src="https://avatars.githubusercontent.com/u/150505791?s=130&v=4" width="60" height="60" alt="cachewraith" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
