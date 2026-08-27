@@ -42,9 +42,19 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-███████████████░░░░░░░░░░ ⁝ 60.96% • TypeScript
-█████████░░░░░░░░░░░░░░░░ ⁝ 35.37% • EJS
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.68% • JSON
+████░░░░░░░░░░░░░░░░░░░░░ ⁝ 17.61% • Bash
+████░░░░░░░░░░░░░░░░░░░░░ ⁝ 15.77% • TypeScript
+████░░░░░░░░░░░░░░░░░░░░░ ⁝ 14.69% • JavaScript
+███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 13.28% • Markdown
+███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 11.27% • Blade Template
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 7.13% • Other
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 6.79% • MDX
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.19% • JSON
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.11% • YAML
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.5% • CSS
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.05% • INI
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.91% • PHP
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.7% • Git Config
 ```
 <!--END_SECTION:daily-->
 
@@ -60,14 +70,14 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <div>
 <!--START_SECTION:followers-->
-<a href="https://github.com/RaksaOC"><img src="https://avatars.githubusercontent.com/u/123465277?s=130&v=4" width="60" height="60" alt="RaksaOC" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/phanithphan"><img src="https://avatars.githubusercontent.com/u/263699332?s=130&v=4" width="60" height="60" alt="phanithphan" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/AVENOIR-REVERIE"><img src="https://avatars.githubusercontent.com/u/208582167?s=130&v=4" width="60" height="60" alt="AVENOIR-REVERIE" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/JohnMwendwa"><img src="https://avatars.githubusercontent.com/u/72663882?s=130&v=4" width="60" height="60" alt="JohnMwendwa" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/ishandutta2007"><img src="https://avatars.githubusercontent.com/u/2527354?s=130&v=4" width="60" height="60" alt="ishandutta2007" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/youngkimtesting12345"><img src="https://avatars.githubusercontent.com/u/261312078?s=130&v=4" width="60" height="60" alt="youngkimtesting12345" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/prime-autobot"><img src="https://avatars.githubusercontent.com/u/224136678?s=130&v=4" width="60" height="60" alt="prime-autobot" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/kanangmin76-sudo"><img src="https://avatars.githubusercontent.com/u/239620752?s=130&v=4" width="60" height="60" alt="kanangmin76-sudo" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
+<a href="https://github.com/vitou18"><img src="https://avatars.githubusercontent.com/u/121754633?s=130&v=4" width="60" height="60" alt="vitou18" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
+<a href="https://github.com/the-d3fender"><img src="https://avatars.githubusercontent.com/u/92269361?s=130&v=4" width="60" height="60" alt="the-d3fender" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
+<a href="https://github.com/Chhoranndorn"><img src="https://avatars.githubusercontent.com/u/172014781?s=130&v=4" width="60" height="60" alt="Chhoranndorn" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
+<a href="https://github.com/RongMarin99"><img src="https://avatars.githubusercontent.com/u/105185714?s=130&v=4" width="60" height="60" alt="RongMarin99" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
+<a href="https://github.com/ahmadrizal-baihaqi"><img src="https://avatars.githubusercontent.com/u/180535350?s=130&v=4" width="60" height="60" alt="ahmadrizal-baihaqi" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
+<a href="https://github.com/duncuo164"><img src="https://avatars.githubusercontent.com/u/138113676?s=130&v=4" width="60" height="60" alt="duncuo164" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
+<a href="https://github.com/cachewraith"><img src="https://avatars.githubusercontent.com/u/150505791?s=130&v=4" width="60" height="60" alt="cachewraith" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
+<a href="https://github.com/Dvurechensky"><img src="https://avatars.githubusercontent.com/u/46356631?s=130&v=4" width="60" height="60" alt="Dvurechensky" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <!--END_SECTION:followers-->
 </div>
 
